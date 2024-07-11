@@ -1,0 +1,7 @@
+0 admin Config
+1 captian Config
+2 player config
+3 Team select blue
+4 Team select red
+5 Team settings
+6 admin settings

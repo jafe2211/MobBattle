@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!-- This module was also published with a richer model, Gradle metadata,  -->
+  <!-- which should be used instead. Do not delete the following line which  -->
+  <!-- is to indicate to Gradle or any Gradle module metadata file consumer  -->
+  <!-- that they should prefer consuming it instead. -->
+  <!-- do_not_remove: published-with-gradle-metadata -->
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.github.shynixn.structureblocklib</groupId>
+  <artifactId>bukkit-nms-119R3</artifactId>
+  <version>2.13.0</version>
+  <name>StructureBlockLib</name>
+  <description>StructureBlockLib is a bukkit implementation for handling structures on spigot server.</description>
+  <url>https://github.com/Shynixn/StructureBlockLib</url>
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <url>http://www.opensource.org/licenses/mit-license.php</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <name>Shynixn</name>
+      <url>https://github.com/Shynixn</url>
+    </developer>
+  </developers>
+  <contributors>
+    <contributor>
+      <name>HielkePlugins</name>
+      <url>https://github.com/HielkePlugins</url>
+    </contributor>
+  </contributors>
+  <scm>
+    <connection>scm:git:git://github.com/Shynixn/StructureBlockLib.git</connection>
+    <developerConnection>scm:git:ssh://github.com:Shynixn/StructureBlockLib.git</developerConnection>
+    <url>http://github.com/Shynixn/StructureBlockLib.git/tree/master</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>com.github.shynixn.structureblocklib</groupId>
+      <artifactId>structureblocklib-api</artifactId>
+      <version>2.13.0</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.github.shynixn.structureblocklib</groupId>
+      <artifactId>structureblocklib-core</artifactId>
+      <version>2.13.0</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.github.shynixn.structureblocklib</groupId>
+      <artifactId>structureblocklib-bukkit-api</artifactId>
+      <version>2.13.0</version>
+      <scope>runtime</scope>
+    </dependency>
+  </dependencies>
+</project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MobBattle">
+    <output-path>$PROJECT_DIR$/TestServer/plugins</output-path>
+    <root id="archive" name="MobBattle.jar">
+      <element id="module-output" name="MobBattle" />
+    </root>
+  </artifact>
+</component>

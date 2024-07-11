@@ -1,0 +1,24 @@
+name: MobBattle
+version: '${project.version}'
+main: de.jafe2211.mobbattle.Main
+api-version: '1.21'
+authors: [Jafe2211]
+website: jafe2211.de
+
+commands:
+  1234:
+    description: Test 1234
+  getTeam:
+    description: sdfiugsdf
+  Inventory:
+    description: sdpofj
+  Config:
+    description: Opens the Config Menu to start the game
+    aliases: cf
+  Timer:
+    description: start, pause, reset and change the Timer
+  MobBattleDebug:
+    description: save and paste schematics
+    aliases: mb
+  publicChat:
+    aliases: pb

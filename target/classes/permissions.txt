@@ -1,0 +1,9 @@
+mobbattle.config.admin
+mobbattle.config.captain
+mobbattle.config.player
+
+mobbattle.inteam
+
+mobbattle.general.placeblocks
+mobbattle.general.breakblocks
+mobbattle.general.killentity
